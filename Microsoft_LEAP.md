@@ -41,7 +41,7 @@ A music recommendation app based on user survey responses.
 #### Financial Coordinator &nbsp; | &nbsp; Mt. Sinai Hospital &nbsp; | &nbsp; Aug 2015 - Aug 2017
 * Increased patient and insurance billing process efficiency and accuracy by building Excel spreadsheets to track patient billing status, insurance billing status, any billing issues, and patient follow-up, resulting in a higher customer satisfaction and less repeat calls for assistance.
 * Saved hospital approximately $3000 by onboarding 100 patients to external assistance programs.
-* Expert Bilingual communication with English- and Spanish-speaking patients regarding insurance benefits and financial options available.
+* Expert Bilingual communication with English and Spanish-speaking patients regarding insurance benefits and financial options available.
 
 #### Lifegaurd &nbsp; | &nbsp; West-side YMCA &nbsp; | &nbsp; June 2014 – April 2020
 * Protect members from drowning and effectively monitor the pool for any potential problems. 
