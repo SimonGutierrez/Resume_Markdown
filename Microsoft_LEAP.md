@@ -16,11 +16,11 @@
 ## Technical Skills
 * **Proficient:** Bilingual (English and Spanish), JavaScript, Node.js, React, React-Native, Git, Restful API, Data Structures, Redux, HTML, CSS, Google Cloud, Mocha, Chai, Express
 * **Knowledgeable:** SQL, postgreSQL, mySQL, Jasmine, Xcode
-* **Some Experience:** Dart, Flutter, Travis CLI, Heroku
+* **Some Experience:** Dart, Flutter, Travis CLI, Heroku, Webpack
 <br>
 
 ## Projects
-#### My-Market-Manager &nbsp; | &nbsp; Owner &nbsp; | &nbsp; Feb 2020 &nbsp; | &nbsp; React, Redux, Google Cloud Firestore &nbsp; | &nbsp; [My-Market-Manager](https://github.com/SimonGutierrez/My-Market-Manager)  
+#### My-Market-Manager &nbsp; | &nbsp; Owner &nbsp; | &nbsp; Feb 2020 &nbsp; | &nbsp; React, Redux, Google Cloud Firestore &nbsp; | &nbsp; [My-Market-Manager](https://my-market-manager.web.app/signin)  
 A stock exchange website that provides users the ability to purchase stock and dynamically view the stock's performance. 
 * Built search, buy, portfolio and transactions user interfaces using React and Redux.
 * Built a user's portfolio using Google Cloud Firestore and the Alpha Vantage API.
