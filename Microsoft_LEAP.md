@@ -14,7 +14,7 @@
 <br>
 
 ## Technical Skills
-* **Proficient:** Bilingual (English and Spanish), JavaScript, Node.js, React, React-Native, Redux, HTML, CSS, Google Cloud, Mocha, Chai, Express
+* **Proficient:** Bilingual (English and Spanish), JavaScript, Node.js, React, React-Native, Git, Restful API, Data Structures, Redux, HTML, CSS, Google Cloud, Mocha, Chai, Express
 * **Knowledgeable:** SQL, postgreSQL, mySQL, Jasmine, Xcode
 * **Some Experience:** Dart, Flutter, Travis CLI, Heroku
 <br>
