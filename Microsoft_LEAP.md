@@ -47,5 +47,5 @@ A music recommendation app based on user survey responses.
 * Received full-scholarship from the New York City Tech Talent Pipeline.
 
 **College of the Holy Cross** | 2011-2015 |   
-* **B.A:** Accounting.
+* **B.S:** Accounting.
 * **Minor:** Latino Studies.
