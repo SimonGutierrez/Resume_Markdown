@@ -23,7 +23,7 @@
 #### NYC-Budget-Visual &nbsp; | &nbsp; Developer &nbsp; | &nbsp; Hackathon - June 2020 &nbsp; | &nbsp; React, Redux &nbsp; | &nbsp; [NYC-Budget-Visual](https://nyc-budget-vis.herokuapp.com/)  
 A data representation app that allows users to view NYC’s budget spending for the past 10 years.
 * Used React and Redux to store data from NYC’s Open Data API and represent that data on our site.
-* Built description cards for each expenditure and built line graph to show each expendature individually.
+* Built description cards for each expenditure and built line graph to show each expendature dynamically.
 
 #### My-Market-Manager &nbsp; | &nbsp; Owner &nbsp; | &nbsp; Feb 2020 &nbsp; | &nbsp; React, Redux, Google Cloud Firestore &nbsp; | &nbsp; [My-Market-Manager](https://my-market-manager.web.app/signin)  
 A stock exchange website that provides users the ability to purchase stock and dynamically view the stock's performance. 
