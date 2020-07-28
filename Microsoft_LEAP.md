@@ -20,6 +20,11 @@
 <br>
 
 ## Projects
+#### NYC-Budget-Visual &nbsp; | &nbsp; Developer &nbsp; | &nbsp; Hackathon - June 2020 &nbsp; | &nbsp; React, Redux &nbsp; | &nbsp; [NYC-Budget-Visual](https://nyc-budget-vis.herokuapp.com/)  
+A data representation app that allows users to view NYC’s budget spending for the past 10 years.
+* Used React and Redux to store data from NYC’s Open Data API and present that data on our site.
+* Built description cards for each expenditure and built line graph to represent each one individually.
+
 #### My-Market-Manager &nbsp; | &nbsp; Owner &nbsp; | &nbsp; Feb 2020 &nbsp; | &nbsp; React, Redux, Google Cloud Firestore &nbsp; | &nbsp; [My-Market-Manager](https://my-market-manager.web.app/signin)  
 A stock exchange website that provides users the ability to purchase stock and dynamically view the stock's performance. 
 * Built search, buy, portfolio and transactions user interfaces using React and Redux.
@@ -29,12 +34,6 @@ A stock exchange website that provides users the ability to purchase stock and d
 A native app that allows users to save articles from the web for viewing in app at a later time.
 * Built navigation, user articles list, offline refresh and animation features using React-Native and Redux. 
 * Built CRUD routes and validated data for single articles, users' saved articles, and most popular articles using Google Cloud Firestore.
-
-#### Gif-Flow &nbsp; | &nbsp; Developer &nbsp; | &nbsp; Nov 2019 &nbsp; | &nbsp; Flutter, Dart &nbsp; | &nbsp; [Gif-Flow](https://github.com/SimonGutierrez/Gif-Flow)  
-A music recommendation app based on user survey responses.
-* Created wireframes for home and survey screens using Flutter.
-* Built pause and play feature using a built-in library.
-* Used Xcode to simulate and debug when creating features for the app such as the survey and importing gifs.
 <br>
 
 ## Work Experience
